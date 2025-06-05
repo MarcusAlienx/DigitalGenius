@@ -115,7 +115,7 @@ export function ContactSection() {
                   <h3 className="text-xl font-bold text-white mb-2 font-poppins group-hover:text-blue-400 transition-colors">
                     Email:
                   </h3>
-                  <p className="text-gray-300 font-poppins">info@hellosupport.io</p>
+                  <p className="text-gray-300 font-poppins">info@digitalgenius.io</p>
                 </div>
               </motion.div>
 
@@ -212,7 +212,7 @@ export function ContactSection() {
               className="text-2xl font-bold text-white mb-4 font-poppins"
               whileHover={{ scale: 1.05 }}
             >
-              Hello Support, LLC
+              Digital Genius, LLC
             </motion.h3>
             <motion.p
               className="text-gray-300 font-poppins leading-relaxed"
@@ -347,7 +347,7 @@ export function ContactSection() {
             whileHover={{ scale: 1.05 }}
           >
             <span className="text-xl font-poppins font-semibold text-white">
-              Hello Support<span className="text-red-500">!</span>
+              Digital Genius<span className="text-red-500">!</span>
             </span>
           </motion.div>
 
