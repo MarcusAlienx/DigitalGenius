@@ -12,7 +12,7 @@ export default function SEOPage() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/95 backdrop-blur-md px-4 py-4">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-poppins font-semibold text-white">
-            Hello Support<span className="text-red-500">!</span>
+            Digital Genius<span className="text-red-500">!</span>
           </Link>
           <div className="flex items-center space-x-4">
             <Link href="/services">

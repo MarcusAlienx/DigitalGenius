@@ -41,10 +41,10 @@ export default function ContactPage() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/95 backdrop-blur-md px-4 py-4">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-poppins font-semibold text-white">
-            Hello Support<span className="text-red-500">!</span>
+            Digital Genius<span className="text-red-500">!</span>
           </Link>
           <Link href="/">
-            <Button variant="outline" className="border-white text-white hover:bg-white hover:text-black">
+            <Button variant="outline" className="border-white text-black hover:bg-gray-200 hover:text-black">
               ← Back to Home
             </Button>
           </Link>
@@ -209,7 +209,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold font-poppins">Email</h3>
-                    <p className="text-gray-300 font-poppins">info@hellosupport.io</p>
+                    <p className="text-gray-300 font-poppins">info@digitalgenius.io</p>
                   </div>
                 </div>
 
@@ -318,7 +318,7 @@ export default function ContactPage() {
                 answer: "Yes! We work with startups, small businesses, and established enterprises. Our strategies are scalable and customized to your specific business stage and goals."
               },
               {
-                question: "What makes Hello Support different from other agencies?",
+                question: "What makes Digital Genius different from other agencies?",
                 answer: "We focus on partnership over transactions. We educate and empower your team while delivering results, ensuring you have the knowledge and tools for long-term success."
               },
               {
