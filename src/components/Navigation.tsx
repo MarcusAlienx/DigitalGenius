@@ -20,20 +20,6 @@ export function Navigation() {
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
 
-  const scrollToSection = (sectionId: string) => {
-    // Check if we're on the home page
-    if (window.location.pathname === '/') {
-      const element = document.getElementById(sectionId)
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth' })
-      }
-    } else {
-      // Navigate to home page with hash
-      router.push(`/#${sectionId}`)
-    }
-    setIsMenuOpen(false)
-  }
-
   const navigateToPage = (path: string) => {
     router.push(path)
     setIsMenuOpen(false)
@@ -57,7 +43,7 @@ export function Navigation() {
             whileTap={{ scale: 0.95 }}
           >
             <span className="text-xl font-poppins font-semibold text-white">
-              Hello Support
+              Digital Genius
               <motion.span
                 className="text-red-500"
                 animate={{
