@@ -11,7 +11,7 @@ export default function AboutPage() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/95 backdrop-blur-md px-4 py-4">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-poppins font-semibold text-white">
-            Hello Support<span className="text-red-500">!</span>
+            Digital Genius<span className="text-red-500">!</span>
           </Link>
           <Link href="/">
             <Button variant="outline" className="border-white text-white hover:bg-white hover:text-black">
@@ -30,7 +30,7 @@ export default function AboutPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            About <span className="text-blue-400">Hello Support</span>
+            About <span className="text-blue-400">Digital Genius</span>
           </motion.h1>
 
           <motion.p
@@ -57,7 +57,7 @@ export default function AboutPage() {
               <h2 className="text-4xl font-bold mb-6 font-poppins">Our Story</h2>
               <p className="text-lg text-gray-300 mb-6 leading-relaxed font-poppins">
                 Founded with a vision to revolutionize how businesses approach marketing and operations,
-                Hello Support has grown from a small team of passionate professionals to a full-service
+                Digital Genius has grown from a small team of passionate professionals to a full-service
                 digital marketing agency that empowers businesses to achieve scalable growth.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed font-poppins">

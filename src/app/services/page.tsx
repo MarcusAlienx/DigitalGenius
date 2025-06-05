@@ -80,10 +80,10 @@ export default function ServicesPage() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/95 backdrop-blur-md px-4 py-4">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <Link href="/" className="text-xl font-poppins font-semibold text-white">
-            Hello Support<span className="text-red-500">!</span>
+            Digital Genius<span className="text-red-500">!</span>
           </Link>
           <Link href="/">
-            <Button variant="outline" className="border-white text-white hover:bg-white hover:text-black">
+            <Button variant="outline" className="border-white text-black hover:bg-gray-200 hover:text-black">
               ← Back to Home
             </Button>
           </Link>
@@ -159,7 +159,7 @@ export default function ServicesPage() {
                         </Button>
                       </Link>
                       <Link href="/contact">
-                        <Button variant="outline" className="border-gray-600 text-gray-300 hover:bg-gray-700 font-poppins">
+                        <Button variant="outline" className="border-gray-600 text-gray-700 hover:bg-gray-800 hover:text-gray-100 font-poppins">
                           Get Quote
                         </Button>
                       </Link>
@@ -242,7 +242,7 @@ export default function ServicesPage() {
               </Button>
             </Link>
             <Link href="/about">
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black font-poppins px-8 py-3">
+              <Button size="lg" variant="outline" className="border-white text-black hover:bg-gray-200 hover:text-black font-poppins px-8 py-3">
                 Learn About Us
               </Button>
             </Link>
