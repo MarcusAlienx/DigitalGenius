@@ -388,7 +388,7 @@ export function HeroSection() {
                     <input type="checkbox" className="mt-1" required />
                     <span>
                       I consent to receive SMS notifications, alerts & occasional marketing communication from Digital Genius.
-                      Message frequency varies. Message & data rates may apply. Text HELP to <strong>480-914-2814</strong> for assistance.
+                      Message frequency varies. Message & data rates may apply. Text HELP to <strong>480-788-5653</strong> for assistance.
                       You can reply STOP to unsubscribe at any time.
                     </span>
                   </label>

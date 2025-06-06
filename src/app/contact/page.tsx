@@ -209,7 +209,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold font-poppins">Email</h3>
-                    <p className="text-gray-300 font-poppins">info@digitalgenius.io</p>
+                    <p className="text-gray-300 font-poppins">info@digital-genius.us</p>
                   </div>
                 </div>
 
@@ -219,7 +219,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold font-poppins">Phone</h3>
-                    <p className="text-gray-300 font-poppins">480-914-2814 (call or text)</p>
+                    <p className="text-gray-300 font-poppins">480-788-5653</p>
                   </div>
                 </div>
 
@@ -230,8 +230,8 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-xl font-bold font-poppins">Address</h3>
                     <p className="text-gray-300 font-poppins">
-                      3028 N 37th St.<br />
-                      Phoenix, AZ 85018
+                      3550 N Goldwater Blvd #1055<br />
+                      Scottsdale, AZ 85251
                     </p>
                   </div>
                 </div>
