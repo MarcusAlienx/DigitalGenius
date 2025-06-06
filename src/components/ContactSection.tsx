@@ -115,7 +115,7 @@ export function ContactSection() {
                   <h3 className="text-xl font-bold text-white mb-2 font-poppins group-hover:text-blue-400 transition-colors">
                     Email:
                   </h3>
-                  <p className="text-gray-300 font-poppins">info@digitalgenius.io</p>
+                  <p className="text-gray-300 font-poppins">info@digital-genius.us</p>
                 </div>
               </motion.div>
 
@@ -137,8 +137,8 @@ export function ContactSection() {
                     Address:
                   </h3>
                   <p className="text-gray-300 font-poppins">
-                    3028 N 37th St.<br />
-                    Phoenix, AZ 85018
+                    3550 N Goldwater Blvd #1055<br />
+                    Scottsdale, AZ 85251
                   </p>
                 </div>
               </motion.div>
@@ -160,7 +160,7 @@ export function ContactSection() {
                   <h3 className="text-xl font-bold text-white mb-2 font-poppins group-hover:text-blue-400 transition-colors">
                     Phone:
                   </h3>
-                  <p className="text-gray-300 font-poppins">480-914-2814 (call or text)</p>
+                  <p className="text-gray-300 font-poppins">480-788-5653</p>
                 </div>
               </motion.div>
 
